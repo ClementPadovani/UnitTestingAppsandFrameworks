@@ -557,7 +557,7 @@
 				INFOPLIST_FILE = Calc/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Calc";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.clementpadovani.com.example.apple-samplecode.Calc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -572,7 +572,7 @@
 				INFOPLIST_FILE = Calc/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Calc";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.clementpadovani.com.example.apple-samplecode.Calc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -585,7 +585,7 @@
 				DEVELOPMENT_TEAM = W48L6Z4654;
 				INFOPLIST_FILE = CalcUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.CalcUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.clementpadovani.com.example.apple-samplecode.CalcUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = Calc;
@@ -599,7 +599,7 @@
 				DEVELOPMENT_TEAM = W48L6Z4654;
 				INFOPLIST_FILE = CalcUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.CalcUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.clementpadovani.com.example.apple-samplecode.CalcUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = Calc;
@@ -622,7 +622,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.CalculatorKit";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.clementpadovani.com.example.apple-samplecode.CalculatorKit";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -648,7 +648,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.CalculatorKit";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.clementpadovani.com.example.apple-samplecode.CalculatorKit";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
@@ -666,7 +666,7 @@
 				DEVELOPMENT_TEAM = W48L6Z4654;
 				INFOPLIST_FILE = CalculatorKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.CalculatorKitTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.clementpadovani.com.example.apple-samplecode.CalculatorKitTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
@@ -682,7 +682,7 @@
 				DEVELOPMENT_TEAM = W48L6Z4654;
 				INFOPLIST_FILE = CalculatorKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.CalculatorKitTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.clementpadovani.com.example.apple-samplecode.CalculatorKitTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Calc.app/Calc";
